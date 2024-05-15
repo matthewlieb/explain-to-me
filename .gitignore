@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Environment
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
