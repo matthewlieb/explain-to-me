@@ -1,7 +1,7 @@
 
 # ExplainToMe.ai 🎓🤖
 
-Welcome to **ExplainToMe.ai**! This is an interactive Streamlit application that provides explanations and trivia questions about any topic at varying levels of difficulty: Novice, Intermediate, Advanced, and Expert. Perfect for learners of all stages! 📘💡
+Welcome to **[ExplainToMe.ai](https://explaintome.streamlit.app/)**! This is an interactive Streamlit application built with LangChain and Python that provides explanations and trivia questions about any topic at varying levels of difficulty: Novice, Intermediate, Advanced, and Expert. Perfect for learners of all stages! 📘💡
 
 ## Features ✨
 
