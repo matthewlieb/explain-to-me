@@ -87,9 +87,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
    ```
 5. **Open a pull request**.
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 
