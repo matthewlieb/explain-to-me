@@ -1,5 +1,4 @@
-
-# ![portfolio-10-thumbnail](https://github.com/user-attachments/assets/73d09b55-159c-47af-a612-9fe21a05aad6)
+![portfolio-10-large](https://github.com/user-attachments/assets/749e34a6-0035-442e-9c81-9f9d3f587ede)
 
 ExplainToMe.ai 🎓🤖
 
