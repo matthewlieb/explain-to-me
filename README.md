@@ -1,5 +1,7 @@
 
-# ExplainToMe.ai 🎓🤖
+# ![portfolio-10-thumbnail](https://github.com/user-attachments/assets/73d09b55-159c-47af-a612-9fe21a05aad6)
+
+ExplainToMe.ai 🎓🤖
 
 Welcome to **[ExplainToMe.ai](https://explaintome.streamlit.app/)**! This is an interactive Streamlit application built with LangChain and Python that provides explanations and trivia questions about any topic at varying levels of difficulty: Novice, Intermediate, Advanced, and Expert. Perfect for learners of all stages! 📘💡
 
